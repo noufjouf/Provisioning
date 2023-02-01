@@ -1,0 +1,34 @@
+Business Problem Addressed: with increase number of users and huge data/ documents we have and expect, a lot of issues comes up and effecting our systems due full space/network utilization which required actions from infrastructure department to increase infra resources and this process usually taking long time from studying current situation and getting required approval and financial support then apply extra spaces.
+
+
+- Role of data science in addressing the business problem: studying infra resources (servers, storage, network bandwidth) and supported system behavior and analyzing the outcomes in order to send notification and alert to system admin regarding need of more space before reaching specific percentage depends on system criticality and usage.
+
+- Targeted business objective(s): 
+1- Increase system availability.
+2- Enhance user’s experience.
+3- Monitor and control IT budget.
+
+2. Data Science Classification
+- Approach:  Predictive, predict system needs by analyzing the usage and criticality of users and systems.
+- Type of Model:  Supervised learning, by classify current input and deep learning of future behavior.
+
+3. Data needed for project and sources for that data
+ We need total number of used space and free, number of current users, system criticality, is there loading/ uploading documents feature and upcoming activities on systems (upgrade/ new releases), all required data should be available in each system controller.
+
+
+4. Magnitude of opportunity (with justification)
+ High, as same solution had been applied already for other purposes.
+
+
+5. Cost and complexity of development and implementation
+ Cost is medium based on previous experience, and the complexity is high as we need to read from each system controller in DC.
+
+
+6. Likelihood of value capture (Low/Medium/High) with justification
+ High, as there are many tools had been applied on system to monitor and send alert in the market.
+
+
+7. Key Business Stakeholders
+1-	IT operation.
+2-	Business.
+3-	Strategy department.
